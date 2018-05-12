@@ -1,0 +1,40 @@
+_repo: Boswell-s-Correspondence-with-the-Honourable-Andrew-Erskine-and-His-Journal-of-a-Tour-to-Cors__20263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boswell, James
+    birthdate: 1740
+    deathdate: 1795
+    gutenberg_agent_id: '659'
+    url: http://www.gutenberg.org/2009/agents/659
+    wikipedia: http://en.wikipedia.org/wiki/James_Boswell
+  editor:
+    agent_name: Hill, George Birkbeck Norman
+    alias: Hill, G. Birkbeck (George Birkbeck)
+    birthdate: 1835
+    deathdate: 1903
+    gutenberg_agent_id: '2931'
+    url: http://www.gutenberg.org/2009/agents/2931
+    wikipedia: http://en.wikipedia.org/wiki/George_Birkbeck_Norman_Hill
+description: ''
+gutenberg_issued: '2007-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Scottish -- 18th century -- Correspondence'
+- !lcsh 'Biographers -- Great Britain -- Correspondence'
+- !lcsh 'Boswell, James, 1740-1795 -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Corsica (France) -- Description and travel'
+- !lcsh 'Boswell, James, 1740-1795 -- Travel -- France -- Corsica'
+title: Boswell's Correspondence with the Honourable Andrew Erskine, and His Journal
+  of a Tour to Corsica
+url: http://www.gutenberg.org/ebooks/20263
