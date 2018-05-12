@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2931
     wikipedia: http://en.wikipedia.org/wiki/George_Birkbeck_Norman_Hill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20263#Boswell-s-Correspondence-with-the-Honourable-Andrew-Erskine-and-His-Journal-of-a-Tour-to-Cors_
 gutenberg_issued: '2007-01-04'
 gutenberg_type: Text
 identifiers:
